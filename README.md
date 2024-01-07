@@ -1,2 +1,2 @@
-# Doit-
+# Doit
 Todo app with Flutter and Firebase... 
